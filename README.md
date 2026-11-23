@@ -3,7 +3,7 @@
 | Path | Contents |
 |---|---|
 | [CONTEST_DESCRIPTION.md](CONTEST_DESCRIPTION.md) | The challenge |
-| [dataset/](dataset/) | CrunchCo sample data (`dataset/output/`) and the scripts that build it |
+| [dataset/](dataset/) | CrunchCo sample data
 | [setup.sh](setup.sh) | One-step dev setup |
 
 ## Dev setup

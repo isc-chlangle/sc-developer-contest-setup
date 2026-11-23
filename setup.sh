@@ -53,4 +53,4 @@ else
   echo "Done. Workbench: http://localhost:3000"
 fi
 echo "SCO Management Portal: http://localhost:52773/csp/sys/%25CSP.Portal.Home.zen?\$NAMESPACE=SC"
-echo "Load the challenge data from dataset/output (see dataset/README.md)."
+echo "Load the challenge data from dataset folder."
