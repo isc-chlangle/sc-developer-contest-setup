@@ -1,0 +1,11 @@
+ID,Name,Type,Status,PrimaryLocation
+CUST001,Main Street Market,retailer,Active,LOC-CUST-1
+CUST002,Evergreen Grocers,retailer,Active,LOC-CUST-2
+CUST003,Hearthside Gifts,retailer,Active,LOC-CUST-3
+CUST004,Northpoint Foods,retailer,Active,LOC-CUST-4
+CUST005,Riverbend Pharmacy,retailer,Active,LOC-CUST-5
+CUST006,Corner Pantry,retailer,Active,LOC-CUST-6
+CUST007,Lakeview Supermarket,retailer,Active,LOC-CUST-7
+CUST008,Snowcap Outfitters,retailer,Active,LOC-CUST-8
+CUST009,Hilltop General Store,retailer,Active,LOC-CUST-9
+CUST010,Giftly Online,ecommerce,Active,LOC-CUST-10

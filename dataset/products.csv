@@ -1,0 +1,25 @@
+ID,Name,Type,Brand,Category,Family,ImageUrl
+PROD001,Classic Holiday Cookie Basket,Product,CrunchCo,Gift Basket,Cookies,USD
+PROD002,Peppermint Lovers Basket,Product,CrunchCo,Gift Basket,Candy,USD
+PROD003,Chocolate Deluxe Basket,Product,CrunchCo,Gift Basket,Chocolate,USD
+PROD004,Gingerbread House Kit Basket,Product,CrunchCo,Gift Basket,Cookies,USD
+PROD005,Nutcracker Nut Sampler,Product,CrunchCo,Gift Basket,Nuts,USD
+PROD006,Fireside Snack Box,Product,CrunchCo,Gift Basket,Mixed,USD
+PROD007,Winter Wonderland Grand Basket,Product,CrunchCo,Gift Basket,Mixed,USD
+PROD008,Office Party Sharing Tray,Product,CrunchCo,Gift Basket,Mixed,USD
+PART001,Candy Canes (12 ct),Part,,Candy,Peppermint,USD
+PART002,Peppermint Bark (8 oz),Part,,Candy,Peppermint,USD
+PART003,Butter Sugar Cookies (12 ct),Part,,Cookies,Baked,USD
+PART004,Gingerbread Cookies (10 ct),Part,,Cookies,Baked,USD
+PART005,Gingerbread House Kit,Part,,Cookies,Baked,USD
+PART006,Shortbread Tin,Part,,Cookies,Baked,USD
+PART007,Milk Chocolate Truffles (12 ct),Part,,Chocolate,Confection,USD
+PART008,Dark Chocolate Santas,Part,,Chocolate,Confection,USD
+PART009,Hot Cocoa Mix (6 pk),Part,,Beverage,Cocoa,USD
+PART010,Roasted Cinnamon Almonds (8 oz),Part,,Nuts,Roasted,USD
+PART011,Honey Roasted Cashews (8 oz),Part,,Nuts,Roasted,USD
+PART012,Mixed Holiday Nuts (16 oz),Part,,Nuts,Roasted,USD
+PART013,Caramel Popcorn Tin,Part,,Snacks,Popcorn,USD
+PART014,Cranberry Granola Bars (6 ct),Part,,Snacks,Bars,USD
+PART015,Chocolate Covered Pretzels (8 oz),Part,,Snacks,Pretzels,USD
+PART016,Gift Basket & Wrap Set,Part,,Packaging,Packaging,USD
